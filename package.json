@@ -1,0 +1,14 @@
+{
+  "name": "prisma-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/caarloshenrique/prisma-example.git",
+  "author": "caarloshenrique <carlos.silva@novaandradina.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@prisma/cli": "^2.0.0-beta.7",
+    "@types/node": "^14.0.9",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
+  }
+}
